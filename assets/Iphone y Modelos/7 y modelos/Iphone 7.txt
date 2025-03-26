@@ -1,0 +1,9 @@
+Diseño: El iPhone 7 presenta un diseño similar a su predecesor, el iPhone 6s, con bordes redondeados y una construcción de aluminio. Está disponible en varios colores, incluyendo negro, plata, oro, oro rosa y (PRODUCT)RED.
+Pantalla: Equipa una pantalla Retina HD de 4.7 pulgadas con tecnología IPS LCD y una resolución de 1334 x 750 píxeles. Ofrece colores precisos y un brillo adecuado para la mayoría de las condiciones de iluminación.
+Cámara: El iPhone 7 cuenta con una cámara trasera de 12 megapíxeles con estabilización óptica de imagen y una apertura de f/1.8. Aunque no tiene la configuración de cámara dual del modelo Plus, sigue capturando fotos y videos de alta calidad.
+Chip A10 Fusion: Al igual que el iPhone 7 Plus, está alimentado por el chip A10 Fusion de Apple, que proporciona un rendimiento rápido y eficiente, así como capacidades gráficas sólidas.
+Almacenamiento: Está disponible en variantes de almacenamiento de 32GB, 128GB y 256GB, lo que permite a los usuarios elegir la capacidad que mejor se adapte a sus necesidades de almacenamiento.
+Resistencia al agua: También cuenta con certificación IP67, lo que significa que es resistente al agua y al polvo. Puede resistir salpicaduras, derrames y breves sumersiones en agua.
+Eliminación del Jack de Auriculares: Similar al iPhone 7 Plus, el iPhone 7 eliminó el puerto de auriculares de 3.5 mm, fomentando el uso de auriculares inalámbricos o el adaptador Lightning a 3.5 mm.
+Botón de Inicio Táctil: Introduce el botón de inicio táctil con retroalimentación háptica, que sustituye al botón físico tradicional. Proporciona una respuesta táctil precisa y configurable.
+Sistema Operativo: Lanzado con iOS 10, pero es compatible con las últimas versiones de iOS, lo que garantiza acceso a nuevas funciones, mejoras de seguridad y compatibilidad con aplicaciones actualizadas.

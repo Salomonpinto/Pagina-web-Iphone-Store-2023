@@ -1,0 +1,10 @@
+Diseño: El iPhone 11 presenta un diseño similar al de su predecesor, el iPhone XR, con una parte trasera de vidrio y un marco de aluminio. Está disponible en una variedad de colores, incluyendo negro, blanco, verde, amarillo, púrpura y (PRODUCT)RED.
+Pantalla Liquid Retina: Equipa una pantalla Liquid Retina HD de 6.1 pulgadas con tecnología IPS LCD y una resolución de 1792 x 828 píxeles. Ofrece colores vibrantes y un alto brillo, aunque la resolución es ligeramente inferior a la de algunos modelos de gama alta.
+Cámara Dual: Una de las principales mejoras del iPhone 11 es su sistema de cámara dual en la parte trasera. Consiste en un sensor de 12 megapíxeles con lente gran angular y otro sensor de 12 megapíxeles con lente ultra gran angular. Esto permite capturar fotos impresionantes con un campo de visión más amplio.
+Chip A13 Bionic: Introduce el chip A13 Bionic de Apple, que ofrece un rendimiento excepcional en términos de velocidad y eficiencia energética. Permite un rendimiento fluido incluso con las aplicaciones y juegos más exigentes.
+Modo Noche: El iPhone 11 incluye el modo Noche, que utiliza algoritmos avanzados y tecnología de fusión de imágenes para capturar fotos sorprendentes en condiciones de poca luz sin necesidad de usar el flash.
+Grabación de Video 4K: Ofrece la capacidad de grabar videos en 4K a 60 fps, lo que permite a los usuarios capturar videos de alta calidad con una gran cantidad de detalles y una estabilización mejorada.
+Face ID: Continúa con la tecnología de reconocimiento facial Face ID introducida en modelos anteriores, que proporciona una forma segura y conveniente de desbloquear el dispositivo y autenticar pagos.
+Resistencia al Agua y al Polvo: Cuenta con certificación IP68, lo que significa que es resistente al agua y al polvo hasta una profundidad de dos metros durante un máximo de 30 minutos.
+Batería Mejorada: Ofrece una duración de batería mejorada en comparación con modelos anteriores, lo que permite un uso prolongado entre cargas.
+Sistema Operativo: Se lanzó con iOS 13 y es compatible con las versiones posteriores del sistema operativo, lo que garantiza acceso a nuevas funciones y mejoras de seguridad.

@@ -1,0 +1,460 @@
+Acabado
+
+
+Color negro espacial, color plata, color oro, morado oscuro
+
+Frente de Ceramic Shield
+
+Diseño de acero inoxidable con
+
+parte posterior de vidrio mate texturizado
+
+ 
+
+Capacidad
+
+
+128 GB
+
+256 GB
+
+512 GB
+
+1 TB
+
+ 
+
+Tamaño y peso
+
+
+Ancho: 77.6 mm
+
+Alto: 160.7 mm
+
+Grosor: 7.85 mm
+
+Peso: 240 g
+
+
+Pantalla
+
+
+Pantalla Super Retina XDR
+
+Pantalla OLED de 6.7 pulgadas (diagonal) sin marco
+
+Resolución de 2796 x 1290 pixeles a 460 ppi
+
+La pantalla del iPhone 14 Pro Max tiene esquinas redondeadas que siguen el elegante diseño curvo del teléfono, y las esquinas se encuentran dentro de un rectángulo estándar. Si se mide en forma de rectángulo estándar, la pantalla tiene 6.69 pulgadas en diagonal (el área real de visualización es menor).
+
+Dynamic Island
+
+Pantalla siempre activa
+
+Tecnología ProMotion con frecuencias de actualización adaptativas de hasta 120 Hz
+
+Pantalla HDR
+
+True Tone
+
+Amplia gama de colores (P3)
+
+Toque con respuesta háptica
+
+Relación de contraste 2,000,000:1 (normal)
+
+Brillo máximo de 1,000 nits (normal); pico de brillo de 1,600 nits (HDR); pico de brillo de 2,000 nits (en exteriores)
+
+Revestimiento oleofóbico resistente a huellas dactilares
+
+Compatibilidad para mostrar varios idiomas y caracteres simultáneamente
+
+
+Resistencia a las salpicaduras, al agua y al polvo.
+
+
+Clasificación IP68 (hasta 30 minutos a una profundidad máxima de 6 metros) según la norma IEC 60529
+
+
+Chip
+
+
+Chip A16 Bionic
+
+CPU de 6 núcleos con 2 núcleos de rendimiento y 4 de eficiencia
+
+GPU de 5 núcleos
+
+Neural Engine de 16 núcleos
+
+ 
+
+Cámara
+
+
+Sistema de cámaras Pro
+
+Gran angular de 48 MP: 24 mm, apertura de ƒ/1.78, estabilización óptica de imagen (OIS) por desplazamiento de sensor de segunda generación, lente de siete elementos, 100% Focus Pixels
+
+Ultra gran angular de 12 MP: 13 mm, apertura de ƒ/2.2 y ángulo de visión de 120°, lente de seis elementos, 100% Focus Pixels
+
+Teleobjetivo de 2x de 12 MP (por medio del sensor quad pixel): 48 mm, apertura de ƒ/1.78, estabilización óptica de imagen (OIS) por desplazamiento de sensor de segunda generación, lente de siete elementos, 100% Focus Pixels
+
+Teleobjetivo de 3x de 12 MP: 77 mm, apertura de ƒ/2.8, estabilización óptica de imagen (OIS), lente de seis elementos
+
+Zoom óptico de 3x para acercar, zoom óptico de 2x para alejar; rango de zoom óptico de 6x; zoom digital de hasta 15x
+
+Cubierta del lente de cristal de zafiro
+
+Flash True Tone adaptativo
+
+Photonic Engine
+
+Deep Fusion
+
+HDR Inteligente 4
+
+Modo Retrato con bokeh avanzado y Control de Profundidad
+
+Iluminación de Retrato con seis efectos (Luz Natural, Luz de Estudio Fotográfico, Luz al Contorno, Reflector, Reflector B y N, Clave Alta en B y N)
+
+Modo Noche
+
+Retratos con modo Noche gracias al escáner LiDAR
+
+Fotos panorámicas (hasta 63 MP)
+
+Estilos Fotográficos
+
+Fotografía macro
+
+Apple ProRAW
+
+Amplia gama de colores en fotos y Live Photos
+
+Corrección de lente (cámara ultra gran angular)
+
+Corrección avanzada de ojos rojos
+
+Estabilización automática de imagen
+
+Modo Ráfaga
+
+Geoetiquetado de fotos
+
+Captura de imagen en formatos HEIF, JPEG y DNG
+
+ 
+
+Grabación de video
+
+
+Grabación de video 4K a 24 cps, 25 cps, 30 cps o 60 cps
+
+Grabación de video HD de 1080p a 25 cps, 30 cps o 60 cps
+
+Grabación de video HD de 720p a 30 cps
+
+Modo Cine de hasta 4K HDR a 30 cps
+
+Modo Acción de hasta 2.8K a 60 cps
+
+Grabación de video HDR en Dolby Vision de hasta 4K a 60 cps
+
+Grabación de video ProRes de hasta 4K a 30 cps (1080p a 30 cps en el modelo de 128 GB)
+
+Grabación de video macro, incluso en cámara lenta y cámara rápida
+
+Video en cámara lenta de 1080p a 120 cps o 240 cps
+
+Video en cámara rápida con estabilización
+
+Cámara rápida con modo Noche
+
+Video QuickTake
+
+Estabilización óptica de imagen (OIS) por desplazamiento de sensor de segunda generación para video (cámara gran angular)
+
+Doble estabilización óptica de imagen (OIS) para video (cámaras gran angular y teleobjetivo)
+
+Zoom óptico de 3x para acercar, zoom óptico de 2x para alejar; rango de zoom óptico de 6x
+
+Zoom digital de hasta 9x
+
+Zoom de audio
+
+Flash True Tone
+
+Estabilización cinemática de video (4K, 1080p y 720p)
+
+Video con autoenfoque continuo
+
+Toma fotos de 8 MP mientras graba videos 4K
+
+Zoom de reproducción
+
+Grabación de video en formatos HEVC, H.264 y ProRes
+
+Grabación estéreo
+
+
+Cámara TrueDepth
+
+
+Cámara de 12 MP
+
+Apertura de ƒ/1.9
+
+Autoenfoque con Focus Pixels
+
+Lente de seis elementos
+
+Retina Flash
+
+Photonic Engine
+
+Deep Fusion
+
+HDR Inteligente 4
+
+Modo Retrato con bokeh avanzado y Control de Profundidad
+
+Iluminación de Retrato con seis efectos (Luz Natural, Luz de Estudio Fotográfico, Luz al Contorno, Reflector, Reflector B y N, Clave Alta en B y N)
+
+Animoji y Memoji
+
+Modo Noche
+
+Estilos Fotográficos
+
+Apple ProRAW
+
+Amplia gama de colores en fotos y Live Photos
+
+Corrección de lente
+
+Estabilización automática de imagen
+
+Modo Ráfaga
+
+Grabación de video 4K a 24 cps, 25 cps, 30 cps o 60 cps
+
+Grabación de video HD de 1080p a 25 cps, 30 cps o 60 cps
+
+Modo Cine de hasta 4K HDR a 30 cps
+
+Grabación de video HDR en Dolby Vision de hasta 4K a 60 cps
+
+Grabación de video ProRes de hasta 4K a 30 cps (1080p a 30 cps en el modelo de 128 GB)
+
+Video en cámara lenta de 1080p a 120 cps
+
+Video en cámara rápida con estabilización
+
+Cámara rápida con modo Noche
+
+Video QuickTake
+
+Estabilización cinemática de video (4K, 1080p y 720p)
+
+
+Face ID 
+
+Reconocimiento facial por medio de la cámara TrueDepth
+
+
+Apple Pay
+
+Paga con tu iPhone usando Face ID en tiendas y apps
+
+
+Seguridad
+
+
+Emergencia SOS
+
+Detección de Choques
+
+
+Conexión inalámbrica y celular
+
+
+Modelo A2894
+
+
+banda 5g:
+
+
+n1 (2100 MHz), n2 (1900 MHz), n3 (1800 MHz), n5 (850 MHz), n7 (2600 MHz), n8 (900 MHz), n12 (700 MHz), n20 (800 DD), n25 (1900 MHz), n26 (800 MHz), n28 (700 APT), n30 (2300 MHz), n38 (TD 2600), n40 (TD 2300), n41 (TD 2500), n48 (TD 3600), n53 (2400 MHz), n66 (AWS-3), n70 (AWS-4), n77 (TD 3700), n78 (TD 3500), n79 (TD 4700)
+
+
+Banda LTE:
+
+
+1 (2100 MHz), 2 (1900 MHz), 3 (1800 MHz), 4 (AWS), 5 (850 MHz), 7 (2600 MHz), 8 (900 MHz), 12 (700 MHz), 13 (700c MHz), 17 (700b MHz), 18 (800 MHz), 19 (800 MHz), 20 (800 DD), 25 (1900 MHz), 26 (800 MHz), 28 (700 APT), 30 (2300 MHz), 32 (Banda L 1500), 34 (TD 2000), 38 (TD 2600), 39 (TD 1900), 40 (TD 2300), 41 (TD 2500), 42 (TD 3500), 46 (TD sin licencia), 48 (TD 3600), 53 (TD 2500), 66 (AWS-3)
+
+
+Todos los modelos:
+
+
+5G (sub 6 GHz) con 4x4 MIMO4
+
+Gigabit LTE con MIMO 4x4 y LAA
+
+Wi- Fi 6 (802.11ax) con MIMO 2x2
+
+Bluetooth 5.3
+
+Chip de banda ultra ancha para la detección espacial
+
+NFC con modo de lectura
+
+Tarjetas Express con carga de reserva
+
+ 
+
+Ubicación
+
+
+GPS de precisión y doble frecuencia (GPS, GLONASS, Galileo, QZSS y BeiDou)
+
+Brújula digital
+
+WiFi
+
+Red celular
+
+Microlocalización iBeacon
+
+ 
+
+Llamadas de video
+
+
+Llamadas de video de FaceTime a través de red celular o Wi-Fi
+
+Llamadas de video de FaceTime HD (1080p) a través de 5G o Wi-Fi
+
+Comparte experiencias como películas, programas de TV, música y apps en una llamada de FaceTime mediante SharePlay
+
+Compartir Pantalla
+
+Modo Retrato en llamadas de video de FaceTime
+
+Audio espacial
+
+Modos de micrófono: Aislamiento de Voz y Espectro Amplio
+
+Zoom óptico con la cámara trasera
+
+
+Llamadas de audio
+
+
+Llamadas de audio de FaceTime
+
+VoLTE (Voice over LTE)
+
+Llamadas por Wi-Fi
+
+Comparte experiencias como películas, programas de TV, música y apps en una llamada de FaceTime mediante SharePlay
+
+Compartir Pantalla
+
+Audio espacial
+
+Modos de micrófono: Aislamiento de Voz y Espectro Amplio
+
+
+Reproducción de audio
+
+
+Los formatos compatibles incluyen AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus y Dolby Atmos
+
+Reproducción de audio espacial
+
+Volumen máximo configurable por el usuario
+
+
+Reproducción de video
+
+
+Los formatos compatibles incluyen HEVC, H.264 y ProRes
+
+HDR con Dolby Vision, HDR10 y HLG
+
+AirPlay para duplicación de pantalla y reproducción de fotos y videos hasta 4K HDR a través del Apple TV (segunda generación o posterior) o de una smart TV compatible con AirPlay 2
+
+Compatibilidad con duplicación de video y salida de video: hasta 1080p a través del adaptador de Lightning a AV digital y del adaptador de Lightning a VGA (los adaptadores se venden por separado)
+
+
+Siri
+
+
+Usa tu voz para enviar mensajes, programar recordatorios y más
+
+Actívalo con sólo decir “Oye Siri”
+
+Usa tu voz para activar atajos en tus apps favoritas
+
+
+Energía y batería
+
+
+Reproducción de video: hasta 23 horas
+
+Reproducción de video en streaming: hasta 20 horas
+
+Reproducción de audio: hasta 75 horas
+
+Batería de iones de litio recargable integrada
+
+Carga inalámbrica de hasta 15 W con cargadores MagSafe
+
+Carga inalámbrica de hasta 7.5 W con cargadores Qi
+
+Carga mediante el puerto USB de una computadora o con un adaptador de corriente
+
+Carga rápida:
+
+Hasta un 50% de carga en aproximadamente 30 minutos con un adaptador de 20 W o superior (disponible por separado)
+
+
+MagSafe
+
+
+Carga inalámbrica de hasta 15 W
+
+Anillo magnético
+
+Imán de alineación
+
+Identificación de accesorios mediante NFC
+
+Magnetómetro
+
+
+Sensores
+
+
+Face ID
+
+Escáner LiDAR
+
+Barómetro
+
+Giroscopio de alto rango dinámico
+
+Acelerómetro de alta fuerza g
+
+Sensor de proximidad
+
+Dos sensores de luz ambiental
+
+
+Sistema operativo
+
+
+iOS 16
+iOS es el sistema operativo móvil más personal y seguro del mundo. Incluye funcionalidades avanzadas y está diseñado para proteger tu privacidad.
+
