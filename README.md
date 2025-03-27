@@ -35,4 +35,4 @@ Implementar un diseño responsive para una navegación fluida en distintos dispo
 🔹 Optimización para dispositivos móviles.
 
 🖥️ Demo
-Puedes ver la página en funcionamiento aquí: [Enlace a GitHub Pages o el sitio]
+Puedes ver la página en funcionamiento aquí: []
