@@ -1,4 +1,4 @@
-iPhone Store - Página Web
+# Página-Web-iPhone-Store
 
 Este proyecto fue creado como parte de mis primeros pasos en el desarrollo web. Fue un ejercicio práctico para mejorar mis habilidades en HTML, CSS y JavaScript, aplicando conceptos de diseño y estructura para un sitio de e-commerce de tecnología.
 
