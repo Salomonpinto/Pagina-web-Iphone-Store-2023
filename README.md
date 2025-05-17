@@ -36,4 +36,4 @@ Implementar un diseño responsive para una navegación fluida en distintos dispo
 🔹 Optimización para dispositivos móviles.
 
 🖥️ Demo
-Puedes ver la página en funcionamiento aquí: (https://salomonpinto.github.io/Pagina-web-Iphone-Store/)
+Puedes ver la página en funcionamiento aquí: (https://salomonpinto.github.io/Pagina-web-Iphone-Store-2023/)
